@@ -1,0 +1,2 @@
+#!/bin/bash
+cat ls $Users | pwd -al | sort $Users
